@@ -1,3 +1,1 @@
-# Code for Federated Learning blog post
-
-Examples of horizontal and vertical federated learning.
+# Code for horizontal federated learning blog post
