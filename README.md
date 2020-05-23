@@ -1,1 +1,1 @@
-# Code for horizontal federated learning blog post
+# Code for Horizontal Federated Learning blog around Credit Scoring
